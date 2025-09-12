@@ -15,6 +15,7 @@ return {
             { "<leader>t", group = "[T]oggle" },
             { "<leader>o", group = "[O]pen" },
             { "<leader>r", group = "[R]eplace" },
+            { "<leader>h", group = "[H]arpoon" },
         },
     },
     keys = {
