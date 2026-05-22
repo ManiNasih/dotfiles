@@ -1,0 +1,23 @@
+@import 'themes/nova-dark/notifications.css';
+@import 'themes/nova-dark/central_control.css';
+
+@define-color foreground #c2c2c7;
+@define-color background #0d0d1f;
+@define-color cursor #c2c2c7;
+
+@define-color color0 #0d0d1f;
+@define-color color1 #37546C;
+@define-color color2 #544F62;
+@define-color color3 #B55E73;
+@define-color color4 #67718E;
+@define-color color5 #A66794;
+@define-color color6 #D96E8B;
+@define-color color7 #c2c2c7;
+@define-color color8 #5c5c71;
+@define-color color9 #37546C;
+@define-color color10 #544F62;
+@define-color color11 #B55E73;
+@define-color color12 #67718E;
+@define-color color13 #A66794;
+@define-color color14 #D96E8B;
+@define-color color15 #c2c2c7;
