@@ -3,7 +3,6 @@ import = ["themes/tokyonight_night.toml"]
 
 [window]
 padding = { x = 4, y = 8 }
-opacity = 0.9
 decorations = "None"
 
 [font]
